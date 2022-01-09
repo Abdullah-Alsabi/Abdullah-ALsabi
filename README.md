@@ -17,10 +17,11 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
+  https://www.javascript.com/
+  <a href="  https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/sql.png" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/python.png" alt="python" width="40" height="40"/> </a>
-<a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png" alt="C" width="40" height="40"/> </a>
   
   
 <h3 align="left">Libraries:</h3>
@@ -36,8 +37,8 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudio-code/visual-studio-code.png" alt="visualstudiocode" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visualstudiocode" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a>
 </p>
 
