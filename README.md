@@ -36,7 +36,8 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudio-code/visual-studio-code.png" alt="visualstudiocode" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudio-code/visual-studio-code.png" alt="visualstudiocode" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a>
 </p>
