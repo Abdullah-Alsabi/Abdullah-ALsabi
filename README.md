@@ -26,11 +26,10 @@
 <h3 align="left">Libraries:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://img1.pnghut.com/15/23/0/azs4ZkeRu7/expressjs-web-application-text-javascript-mongodb.jpg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" width="40" height="40"/> </a>
- <a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/> </a>
- <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="pandas" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en/" target="_blank"> <img src="https://pngset.com/images/javascript-node-js-nodejs-icon-number-symbol-text-rug-transparent-png-1949441.png" alt="numpy" width="40" height="40"/> </a>
+ 
 </p>
 
 
