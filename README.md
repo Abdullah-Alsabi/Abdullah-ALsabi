@@ -26,9 +26,9 @@
 <h3 align="left">Libraries:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="pandas" width="40" height="40"/> </a>
- <a href="https://nodejs.org/en/" target="_blank"> <img src="https://pngset.com/images/javascript-node-js-nodejs-icon-number-symbol-text-rug-transparent-png-1949441.png" alt="numpy" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="numpy" width="40" height="40"/> </a>
  
 </p>
 
