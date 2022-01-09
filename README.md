@@ -1,18 +1,17 @@
-<h1 align="center"> Hi there, I'm Faisal Aldhuwayhi 👋</h1>
-<h3 align="center">A passionate developer from Saudi Arabia, who loves building helpful software</h3>
+<h1 align="center"> Hi there, I'm Abdullah Alsabi 👋</h1>
+<h3 align="center">A passionate developer from Saudi Arabia, who loves building helpful softwares</h3>
 
-<p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=Faisal-AlDhuwayhi&margin-w=15&margin-h=15" alt="Faisal-AlDhuwayhi" /></p>
+<p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Alsabi&margin-w=15&margin-h=15" alt="Abdullah-Alsabi" /></p>
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/Faisal-AlDhuwayhi?tab=repositories).
-- 💬 Ask me about **Java, SQL, C, Python, Machine Learning, Data Analysis**.
-- 📫 How to reach me **Faisal.aldhuwayhi1@gmail.com**
-- 📄 Know about my experiences [Here](https://www.linkedin.com/in/faisal-aldhuwayhi/).
-- 🌱 I’m currently learning Deep Learning..
+- 👨‍💻 All of my projects are available [Here](https://github.com/Abdullah-Alsabi?tab=repositories).
+- 💬 Ask me about **JavaScript, SQL, React, Python, Data Analysis**.
+- 📫 How to reach me **AbdullahB.Alsabi@gmail.com**
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/Abdullah-Alsabi/).
+- 🌱 I’m currently working as Full Stack Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faisal-aldhuwayhi/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://stackoverflow.com/users/14672218/faisal-aldhuwayhi?tab=profile" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+<a href="https://www.linkedin.com/in/Abdullah-Alsabi/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </p>
 
 
