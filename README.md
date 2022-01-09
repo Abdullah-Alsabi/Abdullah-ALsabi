@@ -43,12 +43,12 @@
 
 
 <p>
-<a src="https://github.com/Faisal-AlDhuwayhi">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Faisal-AlDhuwayhi&show_icons=true&theme=light&line_height=27&count_private=true" alt="Faisal's github stats"/>
+<a src="https://github.com/Abdullah-Alsabi">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Alsabi&show_icons=true&theme=light&line_height=27&count_private=true" alt="Abdullah's github stats"/>
 </a>
 </p>
 <p>
-<a src="https://github.com/Faisal-AlDhuwayhi">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-AlDhuwayhi" alt="Faisal's github stats"/>
+<a src="https://github.com/Abdullah-Alsabi">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Alsabi" alt="Abdullah's github stats"/>
 </a>
 </p>
