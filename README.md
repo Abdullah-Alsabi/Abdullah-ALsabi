@@ -7,7 +7,7 @@
 - 💬 Ask me about **JavaScript, SQL, React, Python, Data Analysis**.
 - 📫 How to reach me **AbdullahB.Alsabi@gmail.com**
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/Abdullah-Alsabi/).
-- 🌱 I’m currently working as Full Stack Developer.
+- 🌱 I’m currently working as Software Engineer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
