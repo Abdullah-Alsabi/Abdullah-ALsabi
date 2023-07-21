@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Abdullah Alsabi 👋</h1>
-<h3 align="center">A passionate developer from Saudi Arabia, who loves building helpful softwares</h3>
+<h3 align="center"> Cloud Engineer from Saudi Arabia</h3>
 
 <p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Alsabi&margin-w=15&margin-h=15" alt="Abdullah-Alsabi" /></p>
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Abdullah-Alsabi?tab=repositories).
-- 💬 Ask me about **JavaScript, SQL, React, Python, Data Analysis**.
+- 💬 Ask me about **AWS, Alibaba Cloud, Python, JavaScript, SQL, React, Data Analysis**.
 - 📫 How to reach me **AbdullahB.Alsabi@gmail.com**
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/Abdullah-Alsabi/).
-- 🌱 I’m currently working as a Software Engineer.
+- 🌱 I’m currently working as a Cloud Computing Lead.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
