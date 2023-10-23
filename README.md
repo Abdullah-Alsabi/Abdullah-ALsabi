@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Abdullah Alsabi 👋</h1>
-<h3 align="center"> Cloud Engineer from Saudi Arabia</h3>
+<h3 align="center"> Cloud/DevOps Engineer from Saudi Arabia</h3>
 
 <p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Alsabi&margin-w=15&margin-h=15" alt="Abdullah-Alsabi" /></p>
 
