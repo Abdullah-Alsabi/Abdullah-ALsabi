@@ -4,7 +4,7 @@
 <p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Alsabi&margin-w=15&margin-h=15" alt="Abdullah-Alsabi" /></p>
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Abdullah-Alsabi?tab=repositories).
-- 💬 Ask me about **AWS, Alibaba Cloud, Python, JavaScript, SQL, React, Data Analysis**.
+- 💬 Ask me about **AWS, Alibaba Cloud, Python, JavaScript, K8s, Docker, SQL, React, Data Analysis**.
 - 📫 How to reach me **AbdullahB.Alsabi@gmail.com**
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/Abdullah-Alsabi/).
 - 🌱 I’m currently working as a Cloud Computing Lead.
